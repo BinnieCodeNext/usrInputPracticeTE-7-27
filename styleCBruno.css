@@ -1,0 +1,14 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Playfair Display', serif;
+  margin: 2em;
+  text-align: center;
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/948468807413774897/9514D743CDCF32FDC16B8CF3EC55E636C06FAB94/");
+
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
